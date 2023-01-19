@@ -1,0 +1,32 @@
+html, body {
+  width: 100%;
+  height: 100%;
+}
+body {
+  background-color: #000000;
+  padding-top: 15px;
+}
+.App {
+  text-align: center;
+}
+
+.table {
+  line-height: 10px;
+  font-size: 20px;
+  letter-spacing: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.copyright * {
+  font-size: 9px;
+  color: #ffffff;
+  text-align: center;
+  text-decoration: none;
+}
+.copyright>span {
+  opacity: .6;
+}
+.copyright>a {
+  opacity: .8;
+}
